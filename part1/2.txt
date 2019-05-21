@@ -1,0 +1,4 @@
+[keijo:~/Documents/devopswithdocker]$ docker ps -a                                                       (master✱) 
+CONTAINER ID        IMAGE               COMMAND             CREATED             STATUS              PORTS               NAMES
+[keijo:~/Documents/devopswithdocker]$ docker images                                                      (master✱) 
+REPOSITORY          TAG                 IMAGE ID            CREATED             SIZE

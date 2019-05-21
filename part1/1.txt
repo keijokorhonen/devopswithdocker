@@ -1,0 +1,6 @@
+[keijo:~/Documents/devopswithdocker]$ docker ps -a
+CONTAINER ID        IMAGE               COMMAND                  CREATED             STATUS                     PORTS               NAMES
+11b0164f453f        nginx               "nginx -g 'daemon of…"   21 seconds ago      Exited (0) 6 seconds ago                       musing_bartik
+8d65f1c79b1b        nginx               "nginx -g 'daemon of…"   23 seconds ago      Exited (0) 3 seconds ago                       jovial_bartik
+8820cbc35242        nginx               "nginx -g 'daemon of…"   33 seconds ago      Up 32 seconds              80/tcp              hopeful_goldwasser
+
