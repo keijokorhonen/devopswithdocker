@@ -1,0 +1,3 @@
+Commands used:
+docker run -p 4000:80 devopsdockeruh/ports_exercise
+The contents can be accessed by going to localhost:4000 in the browser
