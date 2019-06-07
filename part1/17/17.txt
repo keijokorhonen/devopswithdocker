@@ -1,0 +1,10 @@
+ReactJS programming environment
+
+Run with:
+docker run -p 3000:3000 -d <IMAGE>
+
+Use the command line with:
+docker exec -it <CONTAINER> bash
+
+Image on Docker Hub:
+https://hub.docker.com/r/kkorhonen/reactjs-container-exercise
