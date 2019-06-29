@@ -1,0 +1,1 @@
+I configured the container to map the port to 8000, as port 80 was already occupied on my machine. So the application runs on localhost:8000 instead.
