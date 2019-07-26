@@ -1,0 +1,7 @@
+backend:
+    ubuntu:16.04: 325MB
+    node:alpine: 138MB
+
+frontend:
+    ubuntu:16.04: 421MB
+    node:alpine: 235MB
