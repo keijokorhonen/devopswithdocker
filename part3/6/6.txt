@@ -1,0 +1,2 @@
+Here I'm optimizing the Dockerfile for the Java Spring project from exercise 1.13.
+On my machine the size of the "before" image is 590MB, whereas the "after" image is only 141MB.
