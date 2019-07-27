@@ -15,7 +15,7 @@ It would allow us to automate this whole system.
 If the posts container needs more memory, kubernetes will give it that, without us having to touch it.
 If the users container crashes, kubernetes can kill it and restart it.
 If a user decides to leave the social network, we will not need the recommendation algorithm container for that user anymore, so kubernetes will delete it.
-This way we can save storge space and CPU usage, by deleting data and containers we don't use anymore.
+This way we can save storage space and CPU usage, by deleting data and containers we don't use anymore.
 We can also use kubernetes to automatically deploy updates to containers without having to stop the running ones.
 
 The biggest alternative to kubernetes is docker's built-in swarm. Swarm solves many of the issues kubernetes solves too, however sacrifices some functionality for ease of use.
